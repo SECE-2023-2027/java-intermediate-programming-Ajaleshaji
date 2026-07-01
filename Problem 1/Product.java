@@ -1,4 +1,3 @@
-package Product;
 import java.util.Scanner;
 
 public class Product {
